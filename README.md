@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/krish-kapoor-12aa1b28a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish kapoor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krish-kapoor-12aa1b28a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish kapoor" height="30" width="40" /></a>
 <a href="https://kaggle.com/krish2533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krish2533" height="30" width="40" /></a>
 <a href="https://instagram.com/__truly_krish__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__truly_krish__" height="30" width="40" /></a>
 </p>
