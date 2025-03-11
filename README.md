@@ -7,19 +7,19 @@
 
 - 🔭 I have a project on [To-DO List](https://krish2523.github.io/CBTC1/)
 
-- 🌱 I’m currently learning **React.Js,Figma**
+- 🌱 I’m currently learning **Next.Js,Three.Js**
 
-- 👯 I also have project on [Zomato Clone](https://krish2523.github.io/Zomato_clone/)
+- 👯 I also have project on [Movie Review App](https://book-my-show-pi1z.vercel.app/)
 
-- 👨‍💻My Portfolio Link [https://krish2523.github.io/CBTC/](https://krish2523.github.io/CBTC/)
+- 👨‍💻My Portfolio Link [https://krish2523.github.io/Portfolio](https://krish2523.github.io/Portfolio)
 
 - Get All my Projects on : [https://github.com/krish2523?tab=repositories](https://github.com/krish2523?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, NodeJS, ExpressJs, MongoDb**
+- 💬 Ask me about **ReactJs,JavaScript, Bootstrap, NodeJS, ExpressJs, MongoDb**
 
 - 📫 How to reach me **krishkapoor20112005@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny, Supportive and got a good Sense Of Humour**
+- ⚡ Fun fact **I think I am good at Dancing and Singing,I am Supportive and got a good Sense Of Humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish2523&show_icons=true&locale=en" alt="krish2523" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krish2523&" alt="krish2523" /></p>
-
