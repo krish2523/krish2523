@@ -1,36 +1,44 @@
-<h1 align="center">Hi 👋, I'm Krish Kapoor</h1>
-<h3 align="center">Full Stack MERN Developer | AI & IoT Enthusiast | Innovating with Code & Hardware</h3>
+## Hi there! I'm Krish Kapoor 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish2523" alt="krish2523" /></a> </p>
+### 🚀 About Me
+I'm a Full-Stack Web Developer with a strong focus on front-end technologies and expertise in **React.js**. I specialize in creating **scalable** and **user-friendly** web applications while ensuring performance optimization. My current focus includes:
 
-- 🔭 I have a project on [To-DO List](https://krish2523.github.io/CBTC1/)
+- **Building Scalable Web Applications** using **React.js, Node.js, and MongoDB**.
+- **Optimizing Web Performance** for better user experience and responsiveness.
+- **Collaborating on Agile Projects** to deliver high-quality applications.
 
-- 🌱 I’m currently learning **Next.Js,Three.Js**
+I am always eager to explore new technologies and improve my development skills through hands-on projects and collaborations.
 
-- 👯 I also have project on [Movie Review App](https://book-my-show-pi1z.vercel.app/)
+### 💡 Skills & Tech Stack
 
-- 👨‍💻My Portfolio Link [https://krish2523.github.io/Portfolio](https://krish2523.github.io/Portfolio)
+- **Programming:** JavaScript, Python
+- **Front-End:** React.js, Bootstrap, Tailwind CSS, HTML, CSS
+- **Back-End:** Node.js, Express.js, MongoDB, SQL
+- **Tools & Frameworks:** Postman, Git, Agile Methodologies
 
-- Get All my Projects on : [https://github.com/krish2523?tab=repositories](https://github.com/krish2523?tab=repositories)
+### 🔥 Experience
+#### CipherBytes Technologies | Web Developer | Jun 2024
+- Developed and deployed two projects using **HTML, CSS, and JavaScript**, showcasing a solid understanding of **front-end development**.
+- Designed and built a **portfolio website** to highlight web development expertise.
+- Created a **To-Do List app** with **advanced calendar integration**, improving task management efficiency.
 
-- 💬 Ask me about **ReactJs,JavaScript, Bootstrap, NodeJS, ExpressJs, MongoDb**
+### 📈 Featured Projects
+#### 🎬 Movie Review App  
+A **fully functional movie booking platform** inspired by Book My Show, built with:
+- **React.js, Axios, JavaScript, Tailwind CSS**
+- **Razor Pay integration** for seamless payments
+- **Automated movie updates** via The Movie Database (TMDB) API
 
-- 📫 How to reach me **krishkapoor20112005@gmail.com**
+Check it out: [Live Demo](https://book-my-show-pi1z.vercel.app/) | [GitHub Repository](https://github.com/krish2523/Book-My-Show)
 
-- ⚡ Fun fact **I think I am good at Dancing and Singing,I am Supportive and got a good Sense Of Humour**
+### 📚 Education
+**Heritage Institute Of Technology** | 2023 - Present  
+- **Applied Instrumentation and Engineering** | CGPA: 8.0
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krish kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish kapoor" height="30" width="40" /></a>
-<a href="https://kaggle.com/krish2533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krish2533" height="30" width="40" /></a>
-<a href="https://instagram.com/__truly_krish__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__truly_krish__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@krishkapoor2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krishkapoor2011" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krish2353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krish2353" height="30" width="40" /></a>
-</p>
+### 💌 Let's Connect!
+- **Portfolio:** [krish2523.github.io/Portfolio](https://krish2523.github.io/Portfolio/)
+- **LinkedIn:** [linkedin.com/in/krish-kapoor-12aa1b28a](https://www.linkedin.com/in/krish-kapoor-12aa1b28a/)
+- **GitHub:** [github.com/krish2523](https://github.com/krish2523)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+🌟 Always open to exciting web development collaborations and discussions!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish2523&show_icons=true&locale=en&layout=compact" alt="krish2523" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish2523&show_icons=true&locale=en" alt="krish2523" /></p>
