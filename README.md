@@ -36,7 +36,7 @@ Check it out: [Live Demo](https://book-my-show-pi1z.vercel.app/) | [GitHub Repos
 - **Applied Instrumentation and Engineering** | CGPA: 8.0
 
 ### 💌 Let's Connect!
-- **Portfolio:** [krish2523.github.io/Portfolio](https://krish2523.github.io/Portfolio/)
+- **Portfolio:** [krish2523.github.io/Portfolio](https://portfolio2-phi-nine.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/krish-kapoor-12aa1b28a](https://www.linkedin.com/in/krish-kapoor-12aa1b28a/)
 - **GitHub:** [github.com/krish2523](https://github.com/krish2523)
 
