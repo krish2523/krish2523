@@ -29,14 +29,14 @@ A **fully functional movie booking platform** inspired by Book My Show, built wi
 - **Razor Pay integration** for seamless payments
 - **Automated movie updates** via The Movie Database (TMDB) API
 
-Check it out: [Live Demo](https://book-my-show-pi1z.vercel.app/) | [GitHub Repository](https://github.com/krish2523/Book-My-Show)
+Check it out: [Live Demo](https://movie-mingle-chi.vercel.app/) | [GitHub Repository](https://github.com/krish2523/Book-My-Show)
 
 ### 📚 Education
 **Heritage Institute Of Technology** | 2023 - Present  
 - **Applied Instrumentation and Engineering** | CGPA: 8.0
 
 ### 💌 Let's Connect!
-- **Portfolio:** [Portfolio_Link](https://portfolio2-phi-nine.vercel.app/)
+- **Portfolio:** [Portfolio_Link](https://portfolio-kappa-ashen.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/krish-kapoor-12aa1b28a](https://www.linkedin.com/in/krish-kapoor-12aa1b28a/)
 - **GitHub:** [github.com/krish2523](https://github.com/krish2523)
 
