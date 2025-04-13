@@ -10,9 +10,9 @@
 - Project on Agentic AI [Researcher.AI](https://github.com/krish2523/Reasercher.ai)
 - 🌱 I’m currently learning **Agentic AI, Generative AI**
 - 💬 Ask me about **React.js, Bootstrap, Tailwind CSS,Node.js, Express.js, MongoDB**
-- 📫 How to reach me **krishkapoor20112005@gmail.com**
-- 👨‍💻 All of my projects are available at **https://portfolio-kappa-ashen.vercel.app/**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1Bw6YqUPR-leWI9gH828edWyUALPwF76N/view?usp=sharing**
+- 📫 How to reach me [Gmail](krishkapoor20112005@gmail.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kappa-ashen.vercel.app/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bw6YqUPR-leWI9gH828edWyUALPwF76N/view?usp=sharing)
 - ⚡ Fun fact **I debug better at 2 AM . Night owl developer vibes 🦉💻 I once built an entire project because I couldn’t sleep—and it actually worked!**
 
 <div> <a href="https://www.linkedin.com/in/krish-kapoor-12aa1b28a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
