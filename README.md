@@ -23,8 +23,8 @@ I am always eager to explore new technologies and improve my development skills 
 - Created a **To-Do List app** with **advanced calendar integration**, improving task management efficiency.
 
 ### 📈 Featured Projects
-#### 🎬 Movie Review App  
-A **fully functional movie booking platform** inspired by Book My Show, built with:
+#### 🎬 MOovieMingle   
+A **fully functional movie renting platform**, built with:
 - **React.js, Axios, JavaScript, Tailwind CSS**
 - **Razor Pay integration** for seamless payments
 - **Automated movie updates** via The Movie Database (TMDB) API
