@@ -8,10 +8,11 @@
 - 🔭 I’m currently working on **Live IPL Score App**
 - 👯 Project on MERN Stack [🎬 MovieMingle](https://movie-mingle-chi.vercel.app/)
 - Project on Agentic AI [Researcher.AI](https://github.com/krish2523/Reasercher.ai)
+- Project on LangChain [Legal-Transformer](https://drive.google.com/drive/folders/106MbDyroNrV-GmULqwhvn_a_Z0s52E9g?usp=drive_link)
 - 🌱 I’m currently learning **Agentic AI, Generative AI**
 - 💬 Ask me about **React.js, Bootstrap, Tailwind CSS,Node.js, Express.js, MongoDB**
 - 📫 How to reach me [Gmail](krishkapoor20112005@gmail.com)
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kappa-ashen.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-git-main-krishs-projects-b175d017.vercel.app/)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bw6YqUPR-leWI9gH828edWyUALPwF76N/view?usp=sharing)
 - ⚡ Fun fact **I debug better at 2 AM . Night owl developer vibes 🦉💻 I once built an entire project because I couldn’t sleep—and it actually worked!**
 
